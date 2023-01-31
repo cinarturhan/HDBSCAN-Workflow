@@ -123,7 +123,7 @@ plt.xticks([1,2,3]);arrange_plot('Facies Histogram','Facies','# of Points',size=
 
 
     
-![png](output_8_0.png)
+![png](../output/output_8_0.png)
     
 
 
