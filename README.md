@@ -179,7 +179,7 @@ plt.xticks([0,1,2,3,4,5,6,7]);arrange_plot('Group Proportions','Facies','# of Po
 
 
     
-![png](output_10_0.png)
+![png](/output/output_10_0.png)
     
 
 
@@ -238,7 +238,7 @@ plt.subplots_adjust(left=0.0, bottom=0.0, right=3.0, top=3.50, wspace=0.2, hspac
 
 
     
-![png](output_12_0.png)
+![png](/output/output_12_0.png)
     
 
 
@@ -283,7 +283,7 @@ plt.subplots_adjust(left=0.0, bottom=0.0, right=2.0, top=2.0, wspace=0.2, hspace
 
 
     
-![png](output_14_0.png)
+![png](/output/output_14_0.png)
     
 
 
@@ -336,7 +336,7 @@ plt.title('Dendrogram',fontsize=16)
 
 
     
-![png](output_16_1.png)
+![png](/output/output_16_1.png)
     
 
 
